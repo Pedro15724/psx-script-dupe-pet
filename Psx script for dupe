@@ -1,0 +1,2 @@
+_G.Key = "pedro_segundaria"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SilenceScripts/PetSimX/main/Mel"))()
